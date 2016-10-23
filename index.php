@@ -22,7 +22,7 @@
         <div class="containerContent">
           <ul>
             <li>
-              <a href="https://reddit.com">Frontpage</a>
+              <a href="https://reddit.com">POOP</a>
             </li>
 
             <li>
@@ -91,7 +91,7 @@
             <li><a href="http://arstechnica.com">Ars Technica</a></li>
             <li><a href="http://news.ycombinator.com">Hacker News</a></li>
             <li><a href="http://www.gmail.com">Gmail</a></li>
-            <li><a href="https://www.icloud.com/#reminders">iCloud Reminders</a></li>
+            <li><a href="https://www.ibutt.com/#reminders">iButt Reminders</a></li>
             <li><a href="https://github.com/hbh7?tab=repositories">hbh7's Github Repos</a></li>
           </ul>
         </div>
